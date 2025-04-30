@@ -1,0 +1,17 @@
+/* Umumiy body uchun */
+body {
+    background-color: #efd5f5;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Bosh konteyner */
+  .container {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center
+  
